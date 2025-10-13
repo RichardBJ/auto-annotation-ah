@@ -1,0 +1,161 @@
+	Path	File	Name	Abbreviation	Positives	Negatives
+0	./Neuropeptides	NP-OXT.md	Oxytocin/neurophysin i prepropeptide	NP-OXT	 ,OXT	 
+1	./Neuropeptides	NP-NPS.md	Neuropeptide s	NP-NPS	 ,NPS	 
+2	./Neuropeptides	NP-MLN.md	Motilin	NP-MLN	 ,MLN	 
+3	./Neuropeptides	NP-CALCA.md	Calcitonin related polypeptide alpha	NP-CALCA	 ,CALCA	 
+4	./Neuropeptides	NP-AGRP.md	Agouti related neuropeptide	NP-AGRP	 ,AGRP	 
+5	./Neuropeptides	NP-GCG.md	Glucagon	NP-GLUC	 ,GCG	 
+6	./Neuropeptides	NP-HCRT.md	Hypocretin neuropeptide precursor	NP-HCRT	 ,HCRT	 
+7	./Neuropeptides	NP-NXPH1.md	Nxph1	NP-NXPH	 ,NXPH1	 
+8	./Neuropeptides	NP-PRLH.md	Prolactin releasing hormone	NP-PRLH	 ,PRLH	 
+9	./Neuropeptides	NP-TRH.md	Thyrotropin releasing hormone	NP-TRH	 ,TRH	 
+10	./Neuropeptides	NP-CCK.md	Cholecystokinin	NP-CCK	 ,CCK	 
+11	./Neuropeptides	NP-NPW.md	Neuropeptide w	NP-NPW	 ,NPW	 
+12	./Neuropeptides	NP-AGT.md	Angiotensinogen	NP-AGT	 ,AGT	 
+13	./Neuropeptides	NP-NMU.md	Neuromedin u	NP-NMU	 ,NMU	 
+14	./Neuropeptides	NP-NPVF.md	Neuropeptide vf precursor	NP-NPVF	 ,NPVF	 
+15	./Neuropeptides	NP-TAC3.md	Tachykinin precursor 3	NP-TAC	 ,TAC3	 
+16	./Neuropeptides	NP-NPPC.md	Natriuretic peptide c	NP-NPPC	 ,NPPC	 
+17	./Neuropeptides	NP-VIP.md	Vasoactive intestinal peptide	NP-VIP	 ,VIP	 
+18	./Neuropeptides	NP-PENK.md	Proenkephalin	NP-PENK	 ,PENK	 
+19	./Neuropeptides	NP-AVP.md	Arginine vasopressin	NP-AVP	 ,AVP	 
+20	./Neuropeptides	NP-KNG1.md	Kininogen 1	NP-KNG	 ,KNG1	 
+21	./Neuropeptides	NP-NAMPT.md	Nampt	NP-NAMPT	 ,NAMPT	 
+22	./Neuropeptides	NP-NPPB.md	Natriuretic peptide b	NP-NPPB	 ,NPPB	 
+23	./Neuropeptides	NP-NXPH4.md	Nxph4	NP-NXPH	 ,NXPH4	 
+24	./Neuropeptides	NP-NPFF.md	Neuropeptide ff-amide peptide precursor	NP-NPFF	 ,NPFF	 
+25	./Neuropeptides	NP-ADM.md	Adrenomedullin	NP-ADM	 ,ADM	 
+26	./Neuropeptides	NP-NTS.md	Neurotensin	NP-NTS	 ,NTS	 
+27	./Neuropeptides	NP-PDYN.md	Prodynorphin	NP-PDYN	 ,PDYN	 
+28	./Neuropeptides	NP-NUCB1.md	Nucb1	NP-NUCB	 ,NUCB1	 
+29	./Neuropeptides	NP-LEP.md	Leptin	NP-LEP	 ,LEP	 
+30	./Neuropeptides	NP-RLN1.md	Relaxin 1	NP-RLN	 ,RLN1	 
+31	./Neuropeptides	NP-PPY.md	Pancreatic polypeptide	NP-PPY	 ,PPY	 
+32	./Neuropeptides	NP-KISS1.md	Kiss-1 metastasis suppressor	NP-KISS	 ,KISS1	 
+33	./Neuropeptides	NP-SCT.md	Secretin	NP-SCT	 ,SCT	 
+34	./Neuropeptides	NP-GRP.md	Gastrin releasing peptide	NP-GRP	 ,GRP	 
+35	./Neuropeptides	NP-CBLN1.md	Cerebellin 1	NP-CBLN	 ,CBLN1	 
+36	./Neuropeptides	NP-CHGA.md	Chromogranin a	NP-CHGA	 ,CHGA	 
+37	./Neuropeptides	NP-EDN1.md	Endothelin 1	NP-EDN	 ,EDN1	 
+38	./Neuropeptides	NP-UCN2.md	Urocortin 2	NP-UCN	 ,UCN2	 
+39	./Neuropeptides	NP-NPY.md	Neuropeptide y	NP-NPY	 ,NPY	 
+40	./Neuropeptides	NP-CART.md	Cocaine- and amphetamine-regulated transcript	NP-CART	 ,CARTPT	 
+41	./Neuropeptides	NP-UTS2.md	Urotensin 2	NP-UTS	 ,UTS2	 
+42	./Neuropeptides	NP-GAL.md	Galanin and gmap prepropeptide	NP-GAL	 ,GAL	 
+43	./Neuropeptides	NP-CBLN4.md	Cerebellin 4	NP-CBLN	 ,CBLN4	 
+44	./Neuropeptides	NP-GAST.md	Gastrin	NP-GAST	 ,GAST	 
+45	./Neuropeptides	NP-GNRH2.md	Gonadotropin releasing hormone 2	NP-GNRH	 ,GNRH2	 
+46	./Neuropeptides	NP-IGF2.md	Insulin like growth factor 2	NP-IGF	 ,IGF2	 
+47	./Neuropeptides	NP-ADIPOQ.md	Adipoq	NP-ADIPOQ	 ,ADIPOQ	 
+48	./Neuropeptides	NP-SST.md	Somatostatin	NP-SST	 ,SST	 
+49	./Neuropeptides	NP-NMB.md	Neuromedin b	NP-NMB	 ,NPB	 
+50	./Neuropeptides	NP-UCN3.md	Urocortin 3	NP-UCN	 ,UCN3	 
+51	./Neuropeptides	NP-ADM2.md	Adrenomedullin 2	NP-ADM	 ,ADM2	 
+52	./Neuropeptides	NP-IAPP.md	Islet amyloid polypeptide	NP-IAPP	 ,IAPP	 
+53	./Neuropeptides	NP-GNRH1.md	Gonadotropin releasing hormone 1	NP-GNRH	 ,GNRH1	 
+54	./Neuropeptides	NP-IGF1.md	Insulin like growth factor 1	NP-IGF	 ,IGF1	 
+55	./Neuropeptides	NP-CORT.md	Cortistatin	NP-CORT	 ,CORT	 
+56	./Neuropeptides	NP-VGF.md	Vgf	NP-VGF	 ,VGF	 
+57	./Neuropeptides	NP-CBLN3.md	Cerebellin 3	NP-CBLN	 ,CBLN3	 
+58	./Neuropeptides	NP-UBL5.md	Ubiquitin-like 5	NP-UBL	 ,UBL5	 
+59	./Neuropeptides	NP-PRL.md	Prolactin	NP-PRL	 ,PRL	 
+60	./Neuropeptides	NP-EDN3.md	Endothelin 3	NP-EDN	 ,EDN3	 
+61	./Neuropeptides	NP-NPB.md	Neuropeptide b	NP-NPB	 ,NPB	 
+62	./Neuropeptides	NP-CBLN2.md	Cerebellin 2	NP-CBLN	 ,CBLN2	 
+63	./Neuropeptides	NP-INS.md	Insulin	NP-INS	 ,INS	 
+64	./Neuropeptides	NP-EDN2.md	Endothelin 2	NP-EDN	 ,EDN2	 
+65	./Neuropeptides	NP-SCG2.md	Secretogranin II	NP-SCG	 ,SCG2	 
+66	./Neuropeptides	NP-GIP.md	Gastric inhibitory polypeptide	NP-GIP	 ,GIP	 
+67	./Neuropeptides	NP-PMCH.md	Pro-melanin concentrating hormone	NP-PMCH	 ,PMCH	 
+68	./Neuropeptides	NP-CHGB .md	Chromogranin b	NP-CHGB 	 ,CHGB	 
+69	./Neuropeptides	NP-GALP.md	Galanin like peptide	NP-GALP	 ,GALP	 
+70	./Neuropeptides	NP-APLN.md	Apelin	NP-APLN	 ,APLN	 
+71	./Neuropeptides	NP-NXPH3.md	Nxph3	NP-NXPH	 ,NXPH3	 
+72	./Neuropeptides	NP-PTH2.md	Parathyroid hormone 2	NP-PTH	 ,PTH2	 
+73	./Neuropeptides	NP-GHRH.md	Growth hormone releasing hormone	NP-GHRH	 ,GHRH	 
+74	./Neuropeptides	NP-UCN.md	Urocortin	NP-UCN	 ,UCN	 
+75	./Neuropeptides	NP-TAC1.md	Tachykinin precursor 1	NP-TAC	 ,TAC1	 
+76	./Neuropeptides	NP-PNOC.md	Prepronociceptin	NP-PNOC	 ,PNOC	 
+77	./Neuropeptides	NP-NPPA.md	Natriuretic peptide a	NP-NPPA	 ,NPPA	 
+78	./Neuropeptides	NP-PCSK1N.md	Pcsk1n	NP-proSAAS	 ,PCSK1N	 
+79	./Neuropeptides	NP-GHRL.md	Ghrelin and obestatin prepropeptide	NP-GHRL	 ,GHRL	 
+80	./Neuropeptides	NP-CRH.md	Corticotropin releasing hormone	NP-CRH	 ,CRH	 
+81	./Neuropeptides	NP-NUCB2.md	Nucb2	NP-NUCB	 ,NUCB2	 
+82	./Neuropeptides	NP-RLN2.md	Relaxin 2	NP-RLN	 ,RLN2	 
+83	./Neuropeptides	NP-NMS.md	Neuromedin s	NP-NMS	 ,NMS	 
+84	./Neuropeptides	NP-RETN.md	Resistin	NP-RETN	 ,RETN	 
+85	./Neuropeptides	NP-RLN3.md	Relaxin 3	NP-RLN	 ,RLN3	 
+86	./Neuropeptides	NP-CALCB.md	Calcitonin related polypeptide beta	NP-CALCB	 ,CALCB	 
+87	./Neuropeptides	NP-POMC.md	Proopiomelanocortin	NP-POMC	 ,POMC	 
+88	./Neuropeptides	NP-ADCYAP1.md	Adenylate cyclase activating polypeptide 1	NP-ADCYAP	 ,ADCYAP1	 
+89	./Neuropeptides	NP-NXPH2.md	Nxph2	NP-NXPH	 ,NXPH2	 
+90	./Neuropeptides	NP-PTHLH.md	Parathyroid hormone-like hormone	NP-PTHLH	 ,PTHLH	 
+91	./Neuropeptides	NP-PYY.md	Peptide yy	NP-PYY	 ,PYY	 
+92	./Neuropeptides	NP-SPX.md	Spexin	NP-SPX	 ,SPX	 
+93	./Human_adult/Neurotransmission	NT-GLY.md	Glycinergic	NT-GLY	 ,SLC32A1,SLC6A5	 
+94	./Human_adult/Neurotransmission	NT-DA.md	Dopaminergic	NT-DA	 ,TH,DDC,SLC6A3	 
+95	./Human_adult/Neurotransmission	NT-VGLUT1.md	Glutamatergic 1	NT-VGLUT1	 ,SLC17A7	 
+96	./Human_adult/Neurotransmission	NT-GABA2.md	GABAergic	NT-GABA	 ,GAD2,SLC32A1	 ,SLC6A5
+97	./Human_adult/Neurotransmission	NT-VGLUT3.md	Glutamatergic 3	NT-VGLUT3	 ,SLC17A8	 
+98	./Human_adult/Neurotransmission	NT-GABA1.md	GABAergic	NT-GABA	 ,GAD1,SLC32A1	 ,SLC6A5
+99	./Human_adult/Neurotransmission	NT-NOR.md	Noradrenergic	NT-NOR	 ,DBH,DDC,TH	 
+100	./Human_adult/Neurotransmission	NT-ADR.md	Adrenergic	NT-ADR	 ,DBH,DDC,TH,PNMT	 
+101	./Human_adult/Neurotransmission	NT-VGLUT2.md	Glutamatergic 2	NT-VGLUT2	 ,SLC17A6	 
+102	./Human_adult/Neurotransmission	NT-HDC.md	Histaminergic	HDC	 ,HDC	 
+103	./Human_adult/Neurotransmission	NT-SER.md	Serotonergic	NT-SER	 ,TPH2,FEV,DDC	 
+104	./Human_adult/Neurotransmission	NT-CHOL.md	Cholinergic	NT-CHOL	 ,CHAT,SLC5A7	 
+105	./Human_adult/State	S-G1S.md	Cell cycle G1/S phase	S-G1S	 ,TOP2A,UNG	 
+106	./Human_adult/State	S-G2M.md	Cell cycle G2/M phase	S-G2M	 ,TOP2A,PLK1	 
+107	./Human_adult/State	S-CC.md	Cell cycle	S-CC	 ,TOP2A	 
+108	./Human_adult/Class	ASTRO.md	Astrocyte	ASTRO	 ,AQP4,GJA1	 ,FOXJ1
+109	./Human_adult/Class	MGL.md	Microglia (mesoderm) 	MGL 	 ,TYROBP,DOCK8	 ,CD163,GZMB,FCN1
+110	./Human_adult/Class	CHRP.md	choroid plexus (mesoderm)	CHRP	 ,TTR,CLIC6	 
+111	./Human_adult/Class	ERY.md	Erythrocyte (mesoderm)	ERY	 ,HBG1	 
+112	./Human_adult/Class	PER.md	Pericytes (mesoderm)	PER	 ,PDGFRB,CSPG4	 ,MYH11
+113	./Human_adult/Class	MAC.md	Macrophage	MAC	 ,F13A1,MRC1,CD163	 
+114	./Human_adult/Class	RGL.md	Radial glia	RGL	 ,FABP7,VIM,NES,SOX2,HES1	 
+115	./Human_adult/Class	NEUR.md	Neuron	NEUR	 ,RBFOX3	 
+116	./Human_adult/Class	OLIGO.md	Oligodendrocyte	OLIGO	 ,PLP1,MBP,MOG	 ,PDGFRA
+117	./Human_adult/Class	BCELL.md	B cells	BCELL	 ,DOCK8,PAX5,FCRL1	 
+118	./Human_adult/Class	VSMC.md	Vascular smooth muscle cell	VSMC	 ,PDGFRB,ACTA2,MYH11	 
+119	./Human_adult/Class	ENDO.md	Endothelial	ENDO	 ,CLDN5,FLT1,PECAM1	 
+120	./Human_adult/Class	SCHWL.md	Schwann cell-like	SCHWL	 ,MPZ	 
+121	./Human_adult/Class	TCELL.md	T cells	TCELL	 ,DOCK8,CD8A,CD3G	 
+122	./Human_adult/Class	MONO.md	Monocyte (mesoderm) 	MONO	 ,TYROBP,FCN1,LYZ	 
+123	./Human_adult/Class	OPC.md	Oligodendrocyte precursor cell	OPC	 ,SOX10,PDGFRA	 
+124	./Human_adult/Class	NK.md	NK cells	NK	 ,NCAM1,GZMB	 
+125	./Human_adult/Class	FIB.md	Fibroblasts	FIB	 ,TBX18,DCN,LUM,COL1A1	 
+126	./Human_adult/Class	EPEN.md	Ependymal cell	EPEN	 ,AQP4,FOXJ1	 
+127	./Human_adult/Subtype/Neuronal	MSN-D1.md	D1 medium spiny neuron	MSN-D1	 ,FOXG1,SLC32A1,FOXP1,FOXP2,OTOF,DRD1,RGS9,GPR88	 
+128	./Human_adult/Subtype/Neuronal	VEN.md	Von Economo neuron	VonEcon	 ,FEZF2,GABRQ,ITGA4,BMP3	 
+129	./Human_adult/Subtype/Neuronal	CB-MLI2.md	Cerebellar molecular layer interneuron 2	CB-MolLayerInt2	 ,TFAP2B,VCAN,GAD2,LYPD6,PRKCD,NXPH1,CDH22	 
+130	./Human_adult/Subtype/Neuronal	INT-SST.md	SST+ MGE-derived interneuron	INT-SST	 ,FOXG1,NR2F1,DLX1,LHX6,GAD2,SST	 ,ADARB2
+131	./Human_adult/Subtype/Neuronal	CB-GLI.md	Cerebellar granular layer interneuron	CB-GranLayerInt	 ,GAD2,SLC6A5,GRM2,LGI2	 
+132	./Human_adult/Subtype/Neuronal	CB-GRAN.md	Cerebellar granule cell	CB-GRAN	 ,CBLN1,CBLN3,GABRA6	 
+133	./Human_adult/Subtype/Neuronal	L6b.md	Cortical layer 6b excitatory neuron	L6b	 ,FOXG1,SLC17A7,FEZF2,CPLX3	 
+134	./Human_adult/Subtype/Neuronal	MSN-ECC.md	Eccentric medium spiny neuron	MSN-ECC	 ,FOXG1,SLC32A1,FOXP2,OTOF,DRD1,ADARB2,ILDR2,CASZ1	 
+135	./Human_adult/Subtype/Neuronal	INT-LAMP5-LHX6.md	LAMP5+, LHX6+ cortical interneuron	INT-LAMP5-LHX6	 ,FOXG1,NR2F1,DLX1,LAMP5,LHX6,GAD2	 
+136	./Human_adult/Subtype/Neuronal	INT-VIP.md	VIP+ CGE-derived interneuron	INT-VIP	 ,FOXG1,NR2F1,DLX1,ADARB2,CXCL14,GAD2,VIP	 
+137	./Human_adult/Subtype/Neuronal	CHAND.md	Chandelier cell	CHAND	 ,FOXG1,GAD1,UNC5B,RORA,TRPS1,NFIB,CA8,PLEKHH2	 
+138	./Human_adult/Subtype/Neuronal	INT-PVALB.md	PVALB+ MGE-derived interneuron	INT-PVALB	 ,FOXG1,NR2F1,DLX1,LHX6,GAD2,PVALB	 
+139	./Human_adult/Subtype/Neuronal	INT-SST-CHODL.md	Long-range projecting, sleep-active interneuron	INT-SST-CHODL	 ,DLX1,SST,CHODL,TACR1,NPY,NOS1,CORT	 
+140	./Human_adult/Subtype/Neuronal	DG-GRAN.md	Dentate gyrus granule cell	DG-GRAN	 ,SLC17A7,PROX1,NR3C2,TUBGCP2,ZBTB20,DPF3,CEBPD	 
+141	./Human_adult/Subtype/Neuronal	L4c-IT.md	Cortical layer 4c excitatory neuron	L4c-IT	 ,FOXG1,SLC17A7,RORB,CD74	 
+142	./Human_adult/Subtype/Neuronal	L5-ET.md	Cortical layer 5 excitatory neuron	L5-ET	 ,FEZF2,BCL11B,POU3F1,TXK	 ,FOXP2,CUX2
+143	./Human_adult/Subtype/Neuronal	CB-PURK.md	Purkinje neuron	CB-PURK	 ,PCP2,SKOR2,PVALB,GAD2	 
+144	./Human_adult/Subtype/Neuronal	CB-MLI1.md	Cerebellar molecular layer interneuron 1	CB-MolLayerInt1	 ,TFAP2B,VCAN,GAD2,PTPRK,SORCS3,PRKCD	 
+145	./Human_adult/Subtype/Neuronal	INT-LAMP5.md	LAMP5+ CGE-derived interneuron	INT-LAMP5	 ,FOXG1,NR2F1,DLX1,ADARB2,CXCL14,GAD2,LAMP5	 ,LHX6
+146	./Human_adult/Subtype/Neuronal	MSN-D2.md	D2 medium spiny neuron	MSN-D2	 ,FOXG1,SLC32A1,FOXP1,OTOF,DRD2,RGS9,GPR88	 
+147	./Human_adult/Subtype/Neuronal	CB-PLI.md	Cerebellar molecular layer interneuron 1	CB-PurkLayerInt	 ,TFAP2B,VCAN,GAD2,KLHL1,NXPH1,CDH22,CHRM2,GRIK4,GRM5	 
+148	./Human_adult/Subtype/Neuronal	CB-UBC.md	Unipolar brush cell	UBC	 ,LMX1A,EOMES	 
+149	./Human_adult/Subtype/Non-neuronal	V-ARTERIOLE.md	Artery endothelial cell	ARTERIOLE	 ,FLT1,CLDN5,PECAM1,SEMA3G	 
+150	./Human_adult/Subtype/Non-neuronal	F-ABC.md	Arachnoid barrier cells	ABC	 ,DCN,COL1A1,CDH1	 
+151	./Human_adult/Subtype/Non-neuronal	V-ARTERY.md	Artery endothelial cell	ARTERY	 ,FLT1,CLDN5,PECAM1,BMX,VEGFC,JUNB	 
+152	./Human_adult/Subtype/Non-neuronal	A-BERG.md	Bergmann Glia	BERG	 ,AQP4,GDF10,GABRG3,WIF1,LGR6	 
+153	./Human_adult/Subtype/Non-neuronal	F-PVF.md	Perivascular fibroblast-like cells	PVF	 ,DCN,TCF21	 
+154	./Human_adult/Subtype/Non-neuronal	F-ARACH.md	Arachnoid	ARACH	 ,DCN,COL1A1,SLC22A2	 
+155	./Human_adult/Subtype/Non-neuronal	O-COP.md	Committed oligodendrocyte precursor	COP	 ,SOX10,GPR17	 ,PDGFRA
+156	./Human_adult/Subtype/Non-neuronal	V-VENOUS.md	Vein endothelial cell	VENOUS	 ,PECAM1,ACKR1,IL1R1	 
+157	./Human_adult/Subtype/Non-neuronal	F-PIA.md	Pia	PIA	 ,DCN,COL1A1,S100A6	 
+158	./Human_adult/Subtype/Non-neuronal	V-FIBMYO.md	Fibromyocyte	FIBMYO	 ,APOE,CCL19,IGFBP5	 
+159	./Human_adult/Subtype/Non-neuronal	V-CAP.md	Capillary endothelial cell	CAP	 ,FLT1,CLDN5,PECAM1,MFSD2A	 
